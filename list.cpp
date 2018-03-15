@@ -1,8 +1,8 @@
-/*** Copyright (c) 2017 Nnmjywg ***/
+/*** Copyright (c) 2017-2018 Nnmjywg ***/
 
 #include <iostream>
 #include <direct.h>
-#include <Windows.h>
+#include <Windows.h> // brb killing myself
 #include <string>
 #include <stdio.h>
 #include "tinydir.h"
